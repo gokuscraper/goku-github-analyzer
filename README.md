@@ -26,14 +26,14 @@
 ## 项目结构
 
 - `streamlit_app.py`：主应用
-- `start_ui.py`：启动入口（自动拉起浏览器）
+- `start_ui.py`：启动入口
 - `requirements.txt`：依赖清单
 - `logo.svg` / `gzh.jpg`：界面资源文件
 
 ## 环境要求
 
 - Python 3.10+（推荐 3.11）
-- Windows（当前主要测试环境）
+- Windows
 
 ## 安装依赖
 
