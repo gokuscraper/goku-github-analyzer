@@ -1,10 +1,21 @@
 # 悟空GitHub数据分析工具
 
-一个基于 Streamlit 的 GitHub 数据采集与分析工具，
+一个面向开发者的 GitHub 数据分析工具，
 
-支持GitHub用户数据采集与开发者画像分析，
+支持从用户维度进行数据采集与开发者画像分析，
 
-支持在线或者本地下载软件使用。
+帮助快速洞察技术栈、活跃度与项目影响力。
+
+## 核心优势
+
+- 无需复杂配置，开箱即用
+- 支持免登录与 Token 双模式
+- 一键生成开发者画像分析
+- 本地运行，数据可控
+
+## 在线体验
+
+https://goku-dev-analytics.streamlit.app/
 
 ## 功能特性
 
@@ -74,11 +85,13 @@ streamlit run streamlit_app.py
 
 ![交流群](https://asiaassets.gokuscraper.com/%E6%82%9F%E7%A9%BA%E7%88%AC%E8%99%AB%E5%85%AC%E4%BC%97%E5%8F%B7.jpg)
 
-## 网站
-
-如有定制化数据分析或工具需求，欢迎交流。
+## 官方网站
 
 https://gokuscraper.com
+
+在线体验工具，或了解更多数据分析能力。
+
+如有定制化数据分析或工具需求，欢迎交流。
 
 ## 常见问题
 
