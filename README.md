@@ -15,7 +15,7 @@
 
 ## 在线体验
 
-[https://goku-dev-analytics.streamlit.app/](https://goku-dev-scraper.streamlit.app/)
+[https://goku-dev-scraper.streamlit.app/](https://goku-dev-scraper.streamlit.app/)
 
 [https://modelscope.cn/studios/GokuScrpaer/GokuGitHubScraper](https://modelscope.cn/studios/GokuScrpaer/GokuGitHubScraper)
 
