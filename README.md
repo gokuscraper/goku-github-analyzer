@@ -1,5 +1,7 @@
 # 悟空GitHub数据分析工具
 
+![https://asiaassets.gokuscraper.com/images/2026/04/20/645c271762df3d49.webp](https://asiaassets.gokuscraper.com/images/2026/04/20/645c271762df3d49.webp)
+
 一个面向开发者的 GitHub 数据分析工具，
 
 支持从用户维度进行数据采集与开发者画像分析，
